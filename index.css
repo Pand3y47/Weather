@@ -1,0 +1,32 @@
+body
+{
+  font-family: 'Montserrat', sans-serif;
+  background-color: #29BD94;
+  background-image: url('video.gif');
+  background-repeat : no-repeat;
+  background-size:  100% 50%;
+}
+.search
+{
+  margin : 5%;
+}
+.futureforecast .today .day
+{
+  padding : 5px 15px;
+  background : #3c3c44;
+  border-radius : 50px;
+  text-align: center;
+  color : #fff;
+}
+.futureforecast .weatherforecastitem .day
+{
+  padding : 5px 15px;
+  background : #3c3c44;
+  border-radius : 50px;
+  text-align: center;
+  color: #fff;
+}
+footer
+{
+  text-align : center;
+}
